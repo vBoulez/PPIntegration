@@ -1,0 +1,7 @@
+<integrations>
+   <integration name="Payport">
+       <email>victorboulez@gmail.com</email>
+       <endpoint_url>http://localhost:35371/magento/oauthcallback</endpoint_url>
+       <identity_link_url>http://localhost:35371/account/apilogin/2</identity_link_url>
+   </integration>
+</integrations>

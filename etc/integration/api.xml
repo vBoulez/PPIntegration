@@ -1,0 +1,12 @@
+<integrations>
+    <integration name="Payport">
+        <resources>
+            <resource name="Magento_Sales::operations" />
+			<resource name="Magento_Sales::orders" />
+			<resource name="Magento_Sales::actions" />
+			<resource name="Magento_Sales::view" />
+			<resource name="Magento_Products::inventory" />
+			<resource name="Magento_Products::catalog" />
+        </resources>
+    </integration>
+</integrations>
